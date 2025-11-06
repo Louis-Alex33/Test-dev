@@ -22,7 +22,7 @@
 
 ---
 
-## Branches & Fusion (Branching & Merging)
+## Branches & Fusion 
 | Commande | Description |
 |----------|-------------|
 | `git branch` | Lister les branches (l’astérisque indique la branche active) |
@@ -44,7 +44,7 @@
 
 ---
 
-## Partager & Mettre à jour des projets (Sharing & Updating Projects)
+## Partager & Mettre à jour des projets 
 | Commande | Description |
 |----------|-------------|
 | `git push origin [nom de la branche]` | Envoyer une branche vers le dépôt distant |
