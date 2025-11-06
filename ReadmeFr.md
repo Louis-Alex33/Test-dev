@@ -6,16 +6,16 @@
 | Commande | Description |
 |----------|-------------|
 | `git init` | Initialiser un dépôt Git local |
-| `git clone ssh://git@github.com/[username]/[repository-name].git` | Créer une copie locale d’un dépôt distant |
+| `git clone ssh://git@github.com/[username]/[repository-name].git` | Créer une copie locale |
 
 ---
 
-## Instantanés de base (Basic Snapshotting)
+## Commandes de base 
 | Commande | Description |
 |----------|-------------|
 | `git status` | Vérifier le statut |
-| `git add [nom-du-fichier.txt]` | Ajouter un fichier à l’index (staging area) |
-| `git add -A` | Ajouter tous les fichiers nouveaux ou modifiés à l’index |
+| `git add [nom-du-fichier.txt]` | Ajouter un fichier |
+| `git add -A` | Ajouter tous les fichiers nouveaux ou modifiés |
 | `git commit -m "[message de commit]"` | Valider les changements |
 | `git rm -r [nom-du-fichier.txt]` | Supprimer un fichier (ou un dossier) |
 | `git remote -v` | Voir le dépôt distant du fichier ou répertoire courant |
