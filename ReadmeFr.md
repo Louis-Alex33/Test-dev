@@ -1,8 +1,8 @@
-🔥 # Commandes Git (Version Française 🇫🇷) 🔥
+ # Commandes Git 
 
 ---
 
-🔶 ## Obtenir & Créer des projets
+→ ## Obtenir & Créer des projets
 | Commande | Description |
 |----------|-------------|
 | `git init` | Initialiser un dépôt Git local |
@@ -10,7 +10,7 @@
 
 ---
 
-🔶 ## Commandes de base 
+→ ## Commandes de base 
 | Commande | Description |
 |----------|-------------|
 | `git status` | Vérifier le statut |
@@ -22,7 +22,7 @@
 
 ---
 
-🔶 ## Branches & Fusion 
+→ ## Branches & Fusion 
 | Commande | Description |
 |----------|-------------|
 | `git branch` | Lister les branches (l’astérisque indique la branche active) |
@@ -44,7 +44,7 @@
 
 ---
 
-🔶 ## Partager & Mettre à jour des projets 
+→ ## Partager & Mettre à jour des projets 
 | Commande | Description |
 |----------|-------------|
 | `git push origin [nom de la branche]` | Envoyer une branche vers le dépôt distant |
@@ -58,7 +58,7 @@
 
 ---
 
-🔶 ## Inspection & Comparaison
+→ ## Inspection & Comparaison
 | Commande | Description |
 |----------|-------------|
 | `git log` | Voir l’historique des changements |
