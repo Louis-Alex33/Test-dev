@@ -2,6 +2,18 @@
 
 ---
 
+## Raccourcis 
+
+| Commande | Description |
+|----------|-------------|
+
+| `g` | git 
+| `st` | status 
+| `co` | checkout 
+| `ci` | commit 
+| `pu` | push 
+| `br` | branch
+
 ## Obtenir & Créer des projets
 | Commande | Description |
 |----------|-------------|
