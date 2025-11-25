@@ -13,7 +13,8 @@
 | `pu` | push 
 | `br` | branch
 | `gst`| git status
-| `ga` | git add .
+| `gaa` | git add .
+| `gcmsg`| git commit -m "message"
 
 ## Obtenir & Créer des projets
 | Commande | Description |
