@@ -15,6 +15,8 @@
 | `gst`| git status
 | `gaa` | git add .
 | `gcmsg`| git commit -m "message"
+|`gh browse`| ouvre github pour commit  
+
 
 ## Obtenir & Créer des projets
 | Commande | Description |
